@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    azure:
+      storage:
+        blob:
+          account-name: cenerstorage
+          account-key: TTVm35ImTDoKZMK52OQw6po5CXisEva1CcgzVqnGHFBVh623i9le72DzV6CeOlqyIKei5HtFSGWq+ASt9fimGw==
+          endpoint: https://cenerstorage.blob.core.windows.net/
